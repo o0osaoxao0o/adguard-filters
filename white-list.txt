@@ -1,6 +1,6 @@
-@@||quickconnect.to
-@@||synology.com
-@@||hik-connect.com
+@@||quickconnect.to^
+@@||synology.com^
+@@||hik-connect.com^
 @@||sharepoint.com^
 @@||tradingview.com^
 @@||vndirect.com.vn
