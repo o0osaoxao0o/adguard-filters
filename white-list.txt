@@ -1,3 +1,4 @@
+@@||synology.com
 @@||hik-connect.com
 @@||sharepoint.com^
 @@||tradingview.com^
